@@ -1,6 +1,6 @@
 {
   "name": "es-webpack",
-  "version": "3.7.1-patch2",
+  "version": "3.7.1-patch3",
   "author": "Tobias Koppers @sokra",
   "description": "Based on the webpack",
   "dependencies": {
